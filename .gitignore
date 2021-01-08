@@ -11,6 +11,9 @@
 # production
 /build
 
+/.vscode
+/.github
+/.firebase
 # misc
 .DS_Store
 .env.local
